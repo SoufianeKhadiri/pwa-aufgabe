@@ -10,6 +10,13 @@
 
 /* Reset */
 
+
+/** Habe ich hinzugefügt weil beim kleiner machen es sonst nicht skaliert hat*/
+#erstesFeld,#zweitesFeld{
+	margin: auto;
+	display: flex;
+}
+
 	html, body, div, span, h1, h2, h3, h4, h5, h6, p, blockquote{
 		
 		margin: 0;
