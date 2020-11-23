@@ -1,0 +1,21 @@
+{
+"name":"EventsMeinerStadt",
+"short_name":"EVmCT",
+"start_url":".",
+"display":"Standalone",
+"description":"Event app",
+"theme_color":"#041625",
+"background_color":"#041625",
+"icons":[
+{
+"src":"images/event.png",
+"sizes":"512x512",
+"type":"image/png"
+},
+{
+"src":"images/musicsign.jpg",
+"sizes":"512x512",
+"type":"image/jpeg"
+}
+]
+}
