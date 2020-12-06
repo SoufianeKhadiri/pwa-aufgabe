@@ -1170,3 +1170,25 @@
 			}
 
 		}
+
+		/* slide Images */
+		.mySlides {display:none}
+        .w3-left, .w3-right, .w3-badge {cursor:pointer}
+		.w3-badge {height:13px;width:13px;padding:0}
+		
+		/* Button Style */
+
+		.button {
+			font-size: 1em;
+			padding: 10px;
+			color: rgb(33, 32, 32);
+			border: 2px solid #61ae81;
+			border-radius: 20px/50px;
+			text-decoration: none;
+			cursor: pointer;
+			transition: all 0.3s ease-out;
+		  }
+		  .button:hover {
+			background: #61ae81;
+			color: white;
+		  }
