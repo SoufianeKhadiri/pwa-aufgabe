@@ -3,9 +3,9 @@
 #### TODO
 - [x] Manifest
 - [x] Register ServiceWorker
-- [ ] ServiceWorker - install
-- [ ] ServiceWorker - active
-- [ ] ServiceWorker - fetch
+- [x] ServiceWorker - install
+- [x] ServiceWorker - active
+- [x] ServiceWorker - fetch
 - [ ] Secure Context
 
 ---
